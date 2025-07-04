@@ -25,7 +25,7 @@
 
 - 📚 Currently mastering my knowledge of  **<a href="https://react.dev/" rel="nofollow">React</a>** and **<a href="https://flutter.dev/" rel="nofollow">Flutter</a>**.
 
-- ☁️ Keen interest in backend. So, I will probably learn **<a href="https://nodejs.org/en" rel="nofollow">Node JS</a>**.
+- ☁️ Keen interest in backend. So, I will probably learn **<a href="https://nodejs.org/en" rel="nofollow">Next.JS</a>**.
 
 - 💬 You can ask me about **<a href="https://www.java.com/es/" rel="nofollow">Java</a>** though. <!-- ,**<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> JavaScript</a>**,**<a href="https://www.typescriptlang.org/" rel="nofollow"> TypeScript</a>** -->
 
@@ -71,5 +71,5 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nodejs,nextjs,vercel,angular,tailwind,sass,postman,figma,heroku,mysql,mongodb,prisma,git,github,postgresql,supabase,firebase,docker,express,jest,redux,wordpress&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,py,react,flutter,nextjs,vercel,angular,tailwind,postman,figma,blender,mysql,git,github,postgresql,supabase,firebase,docker,wordpress&perline=14" />
 </p>
