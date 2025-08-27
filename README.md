@@ -71,5 +71,5 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,py,react,flutter,nextjs,vercel,angular,tailwind,postman,figma,blender,mysql,git,github,postgresql,supabase,firebase,docker,wordpress&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,py,react,flutter,nextjs,vercel,tailwind,postman,figma,blender,mysql,git,github,postgresql,supabase,firebase,docker,wordpress&perline=14" />
 </p>
